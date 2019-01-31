@@ -1,4 +1,11 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/css/bootstrap.min.css.map": "/css/bootstrap.min.css.map",
+    "/css/font-awesome.min.css": "/css/font-awesome.min.css",
+    "/css/ionicons.min.css": "/css/ionicons.min.css",
+    "/css/AdminLTE.min.css": "/css/AdminLTE.min.css",
+    "/css/blue.css": "/css/blue.css",
+    "/css/dataTables.bootstrap.min.css": "/css/dataTables.bootstrap.min.css"
 }
